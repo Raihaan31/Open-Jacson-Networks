@@ -1,3 +1,8 @@
+DATE:14-12-2024
+EXPNO: 01 
+NAME : R RAIHAAN AHMED 
+REF NO: 24010543
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
