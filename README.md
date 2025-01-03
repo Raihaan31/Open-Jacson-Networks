@@ -1,5 +1,5 @@
 DATE:14-12-2024
-EXPNO: 01 
+EXPNO: 06
 NAME : R RAIHAAN AHMED 
 REF NO: 24010543
 
@@ -28,8 +28,8 @@ Visual components and Python
 
 ## Program
 ```py
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : R Raihaan Ahmed .R
+Register number : 24010543
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
